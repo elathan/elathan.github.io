@@ -1,0 +1,45 @@
+Generic guideline
+=================
+
+All undergraduate thesis are research-oriented and they need to have a factor
+of novelty.  Their generic theme must be in the area of system security and
+privacy. We have some topics, below, but if you have your own topic, we would
+like to hear from you, as long as it falls in the area of security and privacy.
+
+Required skills for working with us are: C/C++ programming, Operating Systems,
+systems programming, scripting.
+
+
+Undergraduate thesis projects
+=============================
+
+- Software exploitation. We explore the security guarantees of memory-safety
+  systems-oriented programming languages, such as Rust and Go. 
+  
+  Related papers: https://elathan.github.io/papers/tops21.pdf
+
+  We, also, want to improve our web fuzzer.
+
+  Related papers: https://elathan.github.io/papers/esorics21.pdf
+
+- Machine Learning. We explore attacks and defenses in ML models.
+
+  Related papers: 
+    https://elathan.github.io/papers/pets23b.pdf
+    https://elathan.github.io/papers/pets23.pdf
+    https://elathan.github.io/papers/aisec21.pdf
+
+- Privacy-preserving fitness analytics. We explore how modern fitness-related
+  social networks (i.e., Strava, TrainingPeaks) behave with respect to user's
+  privacy. We seek on researching: (a) new privacy attacks, and (b) new
+  privacy-preserving views. Specifically, for (b), we seek on building similar
+  applications that generate fitness analytics without exposing sensitive data.
+
+- Authentication. We build defenses for protecting a server against password leaks.
+
+  Related papers: 
+    https://elathan.github.io/papers/eurosp22.pdf
+    https://elathan.github.io/papers/asiaccs21.pdf
+
+
+Last update: Spring 2023

@@ -9,6 +9,7 @@ like to hear from you, as long as it falls in the area of security and privacy.
 Required skills for working with us are: C/C++ programming, Operating Systems,
 systems programming, scripting.
 
+More details: https://elathan.github.io/srec/
 
 Undergraduate thesis projects
 =============================

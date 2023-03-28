@@ -36,11 +36,11 @@ Undergraduate thesis projects
   privacy-preserving views. Specifically, for (b), we seek on building similar
   applications that generate fitness analytics without exposing sensitive data.
 
-- Authentication. We build defenses for protecting a server against password leaks.
+- Authentication. We build defenses for protecting a server against password
+  leaks.
 
   Related papers: 
     https://elathan.github.io/papers/eurosp22.pdf
     https://elathan.github.io/papers/asiaccs21.pdf
-
 
 Last update: Spring 2023

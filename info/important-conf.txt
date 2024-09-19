@@ -1,0 +1,17 @@
+Tier 1 (Super serious)
+
+IEEE Security and Privacy (also called Oakland or S&P)
+Usenix Security
+ACM CCS
+NDSS
+
+Tier 2 (Good)
+
+IEEE European Security and Privacy (Euro S&P)
+RAID
+AsiaCCS
+PETS
+ESORICS
+DIMVA
+
+
